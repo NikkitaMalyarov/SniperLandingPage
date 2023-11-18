@@ -6,10 +6,10 @@ A bot for sniping Roblox items
 
 ![Screenshot](userinterface.png "UI Screenshot")
 
-# Live Githuib Page:
+# Live Github Page:
 
 https://github.com/NikkitaMalyarov/SniperLandingPage
 
-#License
+# License
 
 GNU GPLv3
