@@ -8,7 +8,7 @@ A bot for sniping Roblox items
 
 # Live Github Page:
 
-https://github.com/NikkitaMalyarov/SniperLandingPage
+[https://github.com/NikkitaMalyarov/SniperLandingPage](https://roblox-website-2.nmonroetcslv.repl.co)https://roblox-website-2.nmonroetcslv.repl.co
 
 # License
 
